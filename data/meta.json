@@ -1,0 +1,125 @@
+{
+ "updated": "2026-10-12",
+ "labsChecked": "2026-10-12",
+ "jobsChecked": "2026-10-12",
+ "sources": [
+  "KTH job board (kth.se/lediga-jobb)",
+  "KI job board (ki.varbi.com)",
+  "SU job board (su.varbi.com)",
+  "KTH, KI, SU and SciLifeLab group pages"
+ ],
+ "note": "Every lab fact links to an official page. Postings marked 'Listed' were checked on the official job board by title; open them for full details.",
+ "coverageQueue": [
+  "KTH EECS: Computational Science and Technology",
+  "KTH EECS: Intelligent Systems",
+  "KTH EECS: Computer Science",
+  "KTH CBH: Biomedical Engineering and Health Systems",
+  "KTH CBH: Protein Science",
+  "KTH CBH: Chemistry and Chemical Engineering",
+  "KTH SCI: Applied Physics",
+  "KTH SCI: Engineering Mechanics",
+  "KTH SCI: Mathematics",
+  "KTH ITM: Machine Design",
+  "KTH ITM: Energy Technology",
+  "KTH ITM: Materials Science",
+  "KTH ABE: Sustainable Development and Urban Planning",
+  "KI: Medical Epidemiology and Biostatistics",
+  "KI: Neuroscience",
+  "KI: Physiology and Pharmacology",
+  "KI: Medicine, Solna",
+  "KI: CLINTEC",
+  "KI: Learning, Informatics, Management and Ethics",
+  "KI: Global Public Health",
+  "KI: Women's and Children's Health",
+  "KI: Oncology-Pathology",
+  "SU: Physics",
+  "SU: Chemistry",
+  "SU: Mathematics",
+  "SU: Computer and Systems Sciences (DSV)",
+  "SU: Psychology",
+  "SU: Biochemistry and Biophysics",
+  "SU: Ecology, Environment and Plant Sciences",
+  "SciLifeLab Stockholm groups"
+ ],
+ "coverageDone": [
+  "Medical imaging and health AI across KTH, KI, SU (initial batch)",
+  "Economics, law, humanities, ecology, psychology, public health, education, design, music and arts (2026-10-12)"
+ ],
+ "universities": [
+  {
+   "code": "KTH",
+   "name": "KTH Royal Institute of Technology",
+   "status": "Jobs + labs"
+  },
+  {
+   "code": "KI",
+   "name": "Karolinska Institutet",
+   "status": "Jobs + labs"
+  },
+  {
+   "code": "SU",
+   "name": "Stockholm University",
+   "status": "Jobs + labs"
+  },
+  {
+   "code": "SSE",
+   "name": "Stockholm School of Economics",
+   "status": "Jobs + labs"
+  },
+  {
+   "code": "SH",
+   "name": "Södertörn University",
+   "status": "Coming soon"
+  },
+  {
+   "code": "GIH",
+   "name": "Swedish School of Sport and Health Sciences",
+   "status": "Coming soon"
+  },
+  {
+   "code": "Konstfack",
+   "name": "Konstfack University of Arts, Crafts and Design",
+   "status": "Labs"
+  },
+  {
+   "code": "KMH",
+   "name": "Royal College of Music",
+   "status": "Labs"
+  },
+  {
+   "code": "SKH",
+   "name": "Stockholm University of the Arts",
+   "status": "Coming soon"
+  },
+  {
+   "code": "Sophiahemmet",
+   "name": "Sophiahemmet University",
+   "status": "Coming soon"
+  },
+  {
+   "code": "RKH",
+   "name": "Swedish Red Cross University",
+   "status": "Coming soon"
+  },
+  {
+   "code": "FHS",
+   "name": "Swedish Defence University",
+   "status": "Coming soon"
+  },
+  {
+   "code": "ESB",
+   "name": "Ersta Sköndal Bräcke University College",
+   "status": "Coming soon"
+  }
+ ],
+ "photos": [
+  {
+   "file": "img/library-rotunda.webp",
+   "credit": "Pexels"
+  },
+  {
+   "file": "img/library-wood.webp",
+   "credit": "Pexels"
+  }
+ ]
+}
