@@ -1,0 +1,1607 @@
+[
+ {
+  "id": "ki-974009",
+  "title": "Research Assistant in AI for prostate cancer diagnostics (hourly)",
+  "org": "KI",
+  "unit": "Medical Epidemiology and Biostatistics, Solna",
+  "fields": [
+   "AI & machine learning",
+   "Pathology & cancer",
+   "Medical imaging"
+  ],
+  "kind": "Research assistant",
+  "extent": "20%, flexible hours, alongside studies",
+  "deadline": "2026-10-20",
+  "summary": "Digitise prostate biopsy slides and quality-check the images, build Python pipelines for whole-slide images and MRI, and help evaluate AI models. The posting mentions possible degree projects.",
+  "requirements": "Completed bachelor's in AI, data science, CS, maths, medical image analysis or similar. Python and deep learning experience expected.",
+  "contact": "Philippe Weitz, philippe.weitz@ki.se",
+  "url": "https://ki.varbi.com/en/what:job/jobID:974009/",
+  "verified": "posting",
+  "studentFriendly": true,
+  "labId": "ki-kartasalo",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "ki-977338",
+  "title": "Research engineer, AI-based ultrasound diagnostics",
+  "org": "KI",
+  "unit": "Clinical Science and Education, Södersjukhuset",
+  "fields": [
+   "AI & machine learning",
+   "Medical imaging",
+   "Medical device software"
+  ],
+  "kind": "Research engineer",
+  "extent": "50–100%, one year",
+  "deadline": "2026-10-30",
+  "summary": "Technical lead for an AI decision-support platform for ovarian tumour ultrasound (EU MDR Class IIb): DICOM ingestion, YOLO inference pipelines, testing, hospital installs.",
+  "requirements": "Master's or equivalent experience; several years of Python, Docker, Git, Linux. DICOM/PACS/FHIR a merit.",
+  "contact": "Elisabeth Epstein, elisabeth.epstein@ki.se",
+  "url": "https://ki.varbi.com/en/what:job/jobID:977338/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "labId": "ki-epstein",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "ki-973159",
+  "title": "Research Engineer in Clinical AI and Data Infrastructure",
+  "org": "KI",
+  "unit": "Clinical Research and Education, Södersjukhuset",
+  "fields": [
+   "AI & machine learning",
+   "Health informatics"
+  ],
+  "kind": "Research engineer",
+  "extent": "100%, permanent",
+  "deadline": "2026-10-16",
+  "summary": "Build datasets, pipelines and tools for intensive-care research and clinical AI evaluation (time series, text, ECG, radiology data).",
+  "requirements": "Relevant degree; Python/R/SQL; healthcare data experience; Swedish and English.",
+  "contact": "Villiam V. Kildal, villiam.vejbrink.kildal@ki.se",
+  "url": "https://ki.varbi.com/en/what:job/jobID:973159/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "labId": "ki-aicu",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "ki-969347",
+  "title": "Research Assistant: prediction modelling in cognitive disorders",
+  "org": "KI",
+  "unit": "Division of Neurogeriatrics, NVS",
+  "fields": [
+   "Neuroscience",
+   "Epidemiology & public health",
+   "AI & machine learning"
+  ],
+  "kind": "Research assistant",
+  "extent": "100%, one year",
+  "deadline": "2026-10-28",
+  "summary": "Develop and validate prediction models and diagnostic algorithms for cognitive impairment using cohorts, registries and clinical studies.",
+  "requirements": "Master's in a quantitative field plus research experience; R and Python.",
+  "contact": "Linus Jönsson, linus.jonsson@ki.se",
+  "url": "https://ki.varbi.com/en/what:job/jobID:969347/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "kth-962477",
+  "title": "Doctoral student in Neuronics",
+  "org": "KTH",
+  "unit": "School of Engineering Sciences in Chemistry, Biotechnology and Health",
+  "fields": [
+   "Biomechanics",
+   "AI & machine learning"
+  ],
+  "kind": "PhD",
+  "extent": "Full-time doctoral studies",
+  "deadline": "2026-10-15",
+  "summary": "AI plus finite element human body models for vehicle safety, including accident reconstruction from images and video. With Autoliv, funded by Vinnova.",
+  "requirements": "Master's (or 240 credits incl. 60 advanced); mechanics/FEM; Python or Matlab; AI experience a merit.",
+  "contact": "Supervisors: Xiaogai Li, Svein Kleiven, Shiyang Meng",
+  "url": "https://www.kth.se/lediga-jobb/962477?l=en",
+  "verified": "posting",
+  "studentFriendly": false,
+  "labId": "kth-neuronics-li-kleiven",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "kth-976498",
+  "title": "Research Engineer in Robotics, Perception and Learning",
+  "org": "KTH",
+  "unit": "Robotics, Perception and Learning, EECS",
+  "fields": [
+   "Robotics",
+   "AI & machine learning"
+  ],
+  "kind": "Research engineer",
+  "extent": "50%, up to 6 months",
+  "deadline": "2026-10-18",
+  "summary": "Build robot prototypes, collect data, analyse results and report findings through hands-on experiments.",
+  "requirements": "See posting.",
+  "contact": "Danica Kragic Jensfelt, dani@kth.se",
+  "url": "https://www.kth.se/lediga-jobb/976498?l=en",
+  "verified": "posting",
+  "studentFriendly": true,
+  "labId": "kth-rpl",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "kth-972249",
+  "title": "Research engineer in Python development and visualization",
+  "org": "KTH",
+  "unit": "School of Electrical Engineering and Computer Science, KTH",
+  "fields": [
+   "Software & data"
+  ],
+  "kind": "Research engineer",
+  "deadline": "2026-10-14",
+  "summary": "Develop ImpactTwin, an interactive digital-twin dashboard for climate resilience: Python implementation, geospatial data integration and interactive maps and charts for comparing scenarios.",
+  "url": "https://www.kth.se/lediga-jobb/972249?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, fixed-term up to 6 months",
+  "requirements": "Master's in computer science, data science, engineering or similar; strong Python, data processing and visualisation skills.",
+  "contact": "Golnaz Taheri, golnazt@kth.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "kth-969641",
+  "title": "Research Engineer in Soft and Wearable Robotics",
+  "org": "KTH",
+  "unit": "Robot Design Lab, Mechatronics, KTH ITM",
+  "fields": [
+   "Robotics"
+  ],
+  "kind": "Research engineer",
+  "deadline": "2026-10-17",
+  "summary": "Design, build and test soft exoskeletons and their mechatronic systems for the REMA project on mobility for older adults, including experiments and student supervision.",
+  "url": "https://www.kth.se/lediga-jobb/969641?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, fixed-term up to one year",
+  "requirements": "MSc in robotics, mechatronics, electrical or mechanical engineering; CAD, 3D printing, MATLAB or Python, motor control.",
+  "contact": "Georgios Andrikopoulos, geoand@kth.se",
+  "studentFriendly": false,
+  "labId": "kth-robot-design"
+ },
+ {
+  "id": "ki-976546",
+  "title": "Research Assistant for Pharmacoepidemiological Applications",
+  "org": "KI",
+  "unit": "Medical Epidemiology and Biostatistics, KI",
+  "fields": [
+   "Epidemiology & public health"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-10-27",
+  "summary": "Support model development and large-scale processing of registry and health data from Taiwan, Sweden and other Nordic countries, including paediatric pharmacoepidemiology methods.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:976546/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, six months",
+  "requirements": "Linux, SAS/R/Python, Git, good English, basic pharmacoepidemiology and experience with Taiwanese registry data.",
+  "contact": "Sven Sandin, sven.sandin@ki.se",
+  "studentFriendly": false,
+  "labId": "ki-sandin"
+ },
+ {
+  "id": "ki-976636",
+  "title": "Research assistant in liquid biopsy development",
+  "org": "KI",
+  "unit": "Karolinska Institutet",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-10-28",
+  "summary": "Develop bioinformatic methods for extracellular vesicles from body fluids, combining biofluid handling, lab work and RNA-sequencing analysis.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:976636/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, temporary",
+  "requirements": "Undergraduate degree in biology or basic medical training; molecular biology lab and RNA-seq analysis experience.",
+  "contact": "Daniel Hagey, daniel.hagey@ki.se",
+  "studentFriendly": true,
+  "labId": "ki-hagey"
+ },
+ {
+  "id": "ki-970674",
+  "title": "Research Assistant in Neurodivergent Women's Reproductive Health",
+  "org": "KI",
+  "unit": "Women's Mental Health Epidemiology group, KI",
+  "fields": [
+   "Epidemiology & public health",
+   "Women's health"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-11-01",
+  "summary": "Lead a register-based project on reproductive health in women with autism and/or ADHD, from literature review to publication.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:970674/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, one year",
+  "requirements": "Master's in a relevant field; R or SAS; regression modelling; good English.",
+  "contact": "Miriam Martini, miriam.martini@ki.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "ki-974935",
+  "title": "Research Assistant in Cancer Epidemiology (hourly)",
+  "org": "KI",
+  "unit": "Clinical Epidemiology, Department of Medicine Solna, KI",
+  "fields": [
+   "Epidemiology & public health",
+   "Pathology & cancer"
+  ],
+  "kind": "Research assistant",
+  "extent": "Hourly, by agreement",
+  "deadline": "2026-10-22",
+  "summary": "Support data collection and register data management in a registry-based lymphoma research project.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:974935/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "requirements": "Basic medical knowledge of cancer (especially lymphoma); register data handling in Excel or Access; R a merit; Swedish working language.",
+  "contact": "Karin Ekström Smedby, karin.ekstrom.smedby@ki.se",
+  "studentFriendly": true,
+  "labId": "ki-smedby"
+ },
+ {
+  "id": "ki-975007",
+  "title": "Research Assistant in Nutrition and Reproductive and Perinatal Epidemiology (hourly)",
+  "org": "KI",
+  "unit": "Clinical Epidemiology, Department of Medicine Solna, KI",
+  "fields": [
+   "Epidemiology & public health",
+   "Women's health"
+  ],
+  "kind": "Research assistant",
+  "extent": "Hourly, by agreement",
+  "deadline": "2026-10-23",
+  "summary": "Support research in nutrition, pregnancy and women's health through literature reviews, data management and administration, possibly also clinical studies such as PEPP.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:975007/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "requirements": "Master's in nutrition or a related field; good English and literature search skills.",
+  "contact": "Kari Johansson, kari.johansson@ki.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "ki-975114",
+  "title": "Research assistant (2 months)",
+  "org": "KI",
+  "unit": "Molecular Medicine and Surgery, KI",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "Research assistant",
+  "extent": "100%, two months",
+  "deadline": "2026-10-15",
+  "summary": "Support projects in liver metabolism, diabetes and hypoxia signalling: cell and spheroid culture, RNA/qPCR, Western blot, ELISA and immunohistochemistry with confocal microscopy.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:975114/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "requirements": "Master's in biology, molecular biology or similar with hands-on experience of these techniques.",
+  "contact": "Sergiu Bogdan Catrina, sergiu.catrina@ki.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "ki-973889",
+  "title": "Research Assistant, Department of Psychology (hourly)",
+  "org": "KI",
+  "unit": "Wicksell group, Clinical Neuroscience, KI",
+  "fields": [
+   "Psychology",
+   "Neuroscience"
+  ],
+  "kind": "Research assistant",
+  "extent": "Part-time, hourly",
+  "deadline": "2026-10-21",
+  "summary": "Take part in a clinical project evaluating digital behavioural interventions for people with chronic pain, mainly by running telephone interviews with study participants.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:973889/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "requirements": "Knowledge of psychological factors in chronic pain and CBT/ACT; fluent Swedish and English.",
+  "contact": "Rikard Wicksell, rikard.wicksell@ki.se",
+  "studentFriendly": true,
+  "labId": "ki-wicksell"
+ },
+ {
+  "id": "ki-974096",
+  "title": "Research assistant focusing on genome engineering",
+  "org": "KI",
+  "unit": "Laboratory Medicine, KI (Flemingsberg)",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-10-20",
+  "summary": "Apply genome engineering such as CRISPR prime editing, CRISPRi/a and Cut&Tag profiling in cell lines and iPSC-derived brain cells.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:974096/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, 12 months",
+  "requirements": "MSc in experimental medicine, chemistry or biology; PCR, cloning, transfection and cell culture experience.",
+  "contact": "Karl Carlström, karl.carlstrom@ki.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "ki-968409",
+  "title": "Research assistant in human tumour immunology",
+  "org": "KI",
+  "unit": "Mjösberg group, KI",
+  "fields": [
+   "Life science",
+   "Pathology & cancer"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-10-23",
+  "summary": "Support research on human gut and gut tumour tissue: dissection, biobanking, lymphocyte isolation, flow cytometry and single-cell RNA-seq analysis.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:968409/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, temporary",
+  "requirements": "Master's in biomedicine, medicine or immunology by start; human tissue processing and immune cell culture experience.",
+  "contact": "Jenny Mjösberg, jenny.mjosberg@ki.se",
+  "studentFriendly": false,
+  "labId": "ki-mjosberg"
+ },
+ {
+  "id": "ki-972846",
+  "title": "Research Assistant in Translational Melanoma Research",
+  "org": "KI",
+  "unit": "Malignant Melanoma group, Oncology-Pathology, KI",
+  "fields": [
+   "Life science",
+   "Pathology & cancer"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-10-15",
+  "summary": "Support research on extracellular vesicles and circulating biomarkers of treatment response in melanoma, using cell models and clinical plasma samples.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:972846/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, six months",
+  "requirements": "Degree in molecular biology, biomedicine, biotechnology or similar; cell culture, Western blot and immunoprecipitation experience.",
+  "contact": "Albano Cáceres Verschae, albano.caceres.verschae@ki.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "ki-967269",
+  "title": "Research assistant, Department of Global Public Health",
+  "org": "KI",
+  "unit": "IMPAQT group, Global Public Health, KI",
+  "fields": [
+   "Epidemiology & public health"
+  ],
+  "kind": "Research assistant",
+  "deadline": "2026-10-16",
+  "summary": "Prepare research grant applications through literature reviews and drafting on health systems, vaccination and maternal and perinatal health.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:967269/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, 12 months",
+  "requirements": "Master's in global health or related field; research experience in low- and middle-income countries; Swedish and English.",
+  "contact": "Sibylle Herzig van Wees, sibylle.herzig.van.wees@ki.se",
+  "studentFriendly": false,
+  "labId": "ki-impaqt"
+ },
+ {
+  "id": "ki-978313",
+  "title": "Research group assistant (50%)",
+  "org": "KI",
+  "unit": "Physiology and Pharmacology, KI",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "Assistant",
+  "extent": "50%",
+  "deadline": "2026-10-30",
+  "summary": "Practical and administrative support for a research group: ordering lab supplies, onboarding new members, booking travel, managing the electronic lab notebook and taking minutes.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:978313/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "requirements": "Good English; administrative or lab experience and Microsoft Office are merits, as is Swedish.",
+  "contact": "Tilda Flyborg, tilda.flyborg@ki.se",
+  "studentFriendly": true
+ },
+ {
+  "id": "ki-977123",
+  "title": "Clinical assistant: development of cell-based therapies",
+  "org": "KI",
+  "unit": "Biomolecular and Cellular Medicine, Laboratory Medicine, KI",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "Assistant",
+  "deadline": "2026-10-29",
+  "summary": "Develop and optimise CAR T-cell products made with viral and CRISPR-based knock-in methods, aiming for a clinical trial. Mainly hands-on lab work.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:977123/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, temporary",
+  "requirements": "Medical or dental degree, or admission to doctoral studies in medicine; lentivirus, T/NK-cell culture, gene editing and flow cytometry experience.",
+  "contact": "Joel Nordin, joel.nordin@ki.se",
+  "studentFriendly": false
+ },
+ {
+  "id": "ki-976547",
+  "title": "Student assistants at Karolinska Institutet University Library",
+  "org": "KI",
+  "unit": "KI University Library (KIB)",
+  "fields": [
+   "Other"
+  ],
+  "kind": "Student assistant",
+  "deadline": "2026-10-19",
+  "summary": "Help library users with lending and services on site, plus shelving and circulation work.",
+  "url": "https://ki.varbi.com/en/what:job/jobID:976547/",
+  "verified": "posting",
+  "studentFriendly": true,
+  "checked": "2026-10-14",
+  "extent": "20%, one fixed weekday",
+  "requirements": "Admitted to a bachelor's programme in library and information science; customer service experience is a merit.",
+  "contact": "Petra Wallgren Björk, petra.bjork@ki.se"
+ },
+ {
+  "id": "sse-974440",
+  "title": "Student Assistants, House of Governance and Public Policy",
+  "org": "SSE",
+  "unit": "House of Governance and Public Policy (GaPP), Stockholm School of Economics",
+  "fields": [
+   "Economics & policy"
+  ],
+  "kind": "Student assistant",
+  "extent": "4–8 h/week, flexible, 165 SEK/h",
+  "deadline": "2026-10-15",
+  "summary": "Support the directors of GaPP with the new Master's in Public Policy, international partnerships and visits by policymakers and researchers.",
+  "requirements": "No set programme; curious, structured and reliable. The page also mentions 5 November in the text, so confirm the deadline with the contact.",
+  "contact": "Assia Viachka, Assia.Viachka@hhs.se",
+  "url": "http://jobs.hhs.se/en/job/stockholm/we_are_now_seeking_student_assistants_to_support_the_next_phase_of_governance_and_public_policy_at_sse_-974440.html",
+  "verified": "posting",
+  "studentFriendly": true,
+  "checked": "2026-10-14",
+  "labId": "sse-gapp"
+ },
+ {
+  "id": "sse-878378",
+  "title": "Research Assistants and Teaching Assistants, House of Innovation",
+  "org": "SSE",
+  "unit": "Entrepreneurship, Innovation and Technology, Stockholm School of Economics",
+  "fields": [
+   "Economics & policy",
+   "Software & data"
+  ],
+  "kind": "Research assistant",
+  "extent": "Part-time, by agreement",
+  "deadline": null,
+  "rolling": true,
+  "summary": "Support research projects in management, economics and organisation studies using interviews, surveys, econometrics, experiments, machine learning and text analysis.",
+  "requirements": "Aimed at motivated early-career researchers; no fixed list.",
+  "contact": "Apply via hhs.varbi.com (no named contact)",
+  "url": "http://jobs.hhs.se/en/job/stockholm/research_assistants_and_teaching_assistants__house_of_innovation_stockholm_school_of_economics_-878378.html",
+  "verified": "posting",
+  "studentFriendly": true,
+  "checked": "2026-10-14",
+  "labId": "sse-house-of-innovation"
+ },
+ {
+  "id": "su-969959",
+  "title": "PhD student in Psychology",
+  "org": "SU",
+  "unit": "Department of Psychology, Stockholm University",
+  "fields": [
+   "Psychology"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-11-02",
+  "summary": "Doctoral project on chronomedicine in psychiatry: whether daily fluctuations in psychiatric symptoms, attention and stress physiology come from circadian rhythms or from behavioural and environmental factors.",
+  "url": "https://su.varbi.com/en/what:job/jobID:969959/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); at least 90 credits in psychology or a relevant subject.",
+  "contact": "Leonie Balter, leonie.balter@su.se",
+  "labId": "su-psych-balter"
+ },
+ {
+  "id": "su-966879",
+  "title": "PhD student in Ecology and Evolution",
+  "org": "SU",
+  "unit": "Ecology, Environment and Plant Sciences (DEEP), SU",
+  "fields": [
+   "Ecology & environment"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-24",
+  "summary": "Study the evolutionary drivers and genomic consequences of pollen evolution when flowering plants change pollination mode, using comparative and population genomics and transcriptomics.",
+  "url": "https://su.varbi.com/en/what:job/jobID:966879/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 15 credits in ecology or evolution and a 30-credit project in the area.",
+  "contact": "Tanja Slotte, tanja.slotte@su.se",
+  "labId": "su-deep-slotte"
+ },
+ {
+  "id": "su-969795",
+  "title": "PhD student in Wetland ecology",
+  "org": "SU",
+  "unit": "Ecology, Environment and Plant Sciences (DEEP), SU",
+  "fields": [
+   "Ecology & environment"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-31",
+  "summary": "Part of the Formas-funded BALANCE wetlands project: how wetland restoration affects insect and spider abundance and diversity, and mechanisms such as oxygen deficiency in wet soil.",
+  "url": "https://su.varbi.com/en/what:job/jobID:969795/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with ecology/evolution credits and a 30-credit degree project; driving licence and fieldwork ability.",
+  "contact": "Peter Hambäck, peter.hamback@su.se",
+  "labId": "su-deep-hamback"
+ },
+ {
+  "id": "su-969676",
+  "title": "PhD student in English, Literary Studies",
+  "org": "SU",
+  "unit": "Department of English, SU",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-17",
+  "summary": "Doctoral position in English literary studies; the department's research spans early modern to contemporary literature, narratology, critical theory and postcolonial and world literatures.",
+  "url": "https://su.varbi.com/en/what:job/jobID:969676/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree incl. 30 ECTS advanced English with a 15 ECTS thesis; IELTS Academic 7.5 or equivalent.",
+  "contact": "Giles Whiteley, giles.whiteley@english.su.se"
+ },
+ {
+  "id": "su-952374",
+  "title": "PhD student in mathematics education (statistical literacy)",
+  "org": "SU",
+  "unit": "Mathematics Education, Department of Teaching and Learning, SU",
+  "fields": [
+   "Education",
+   "Mathematics"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "How pupils develop statistical literacy, or how teachers view statistics teaching, including developing teaching models together with teachers.",
+  "url": "https://su.varbi.com/en/what:job/jobID:952374/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree; mathematics teacher training or 90 relevant credits incl. 30 advanced credits in mathematics (education).",
+  "contact": "Anna Pansell, anna.pansell@su.se",
+  "labId": "su-subject-education"
+ },
+ {
+  "id": "su-960173",
+  "title": "PhD student in Science Education",
+  "org": "SU",
+  "unit": "Science Education, Department of Teaching and Learning, SU",
+  "fields": [
+   "Education"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Doctoral project in science education, from compulsory and upper secondary school to higher education, preschool or informal learning settings.",
+  "url": "https://su.varbi.com/en/what:job/jobID:960173/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree plus specific requirements in science education; Swedish, Danish, Norwegian or English.",
+  "contact": "Anna Danielsson, anna.t.danielsson@su.se",
+  "labId": "su-subject-education"
+ },
+ {
+  "id": "su-963985",
+  "title": "PhD student in Public Health Sciences",
+  "org": "SU",
+  "unit": "Department of Public Health Sciences, SU",
+  "fields": [
+   "Epidemiology & public health"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Commercial determinants of health for addictive products such as alcohol, nicotine and gambling, including industry lobbying, regulation and marketing, mainly with qualitative methods.",
+  "url": "https://su.varbi.com/en/what:job/jobID:963985/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree, good English and at least 7.5 advanced credits in research methods.",
+  "contact": "Jessica Storbjörk, jessica.storbjork@su.se",
+  "labId": "su-ph-storbjork"
+ },
+ {
+  "id": "su-966055",
+  "title": "PhD student in Public Health Sciences",
+  "org": "SU",
+  "unit": "Department of Public Health Sciences, SU",
+  "fields": [
+   "Epidemiology & public health"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Part of the project Women's health and ageing: burden, determinants and consequences of conditions linked to ageing of the female reproductive system, using register, survey and cohort data.",
+  "url": "https://su.varbi.com/en/what:job/jobID:966055/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree, good English and at least 7.5 advanced credits in research methods.",
+  "contact": "Ilona Grünberger, ilona.koupil@su.se",
+  "labId": "su-ph-womens-ageing"
+ },
+ {
+  "id": "su-967606",
+  "title": "PhD student in linguistics, child language development",
+  "org": "SU",
+  "unit": "Department of Linguistics, SU",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Doctoral project in linguistics focused on child language development, with your own research plan connected to the department's research.",
+  "url": "https://su.varbi.com/en/what:job/jobID:967606/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree incl. 30 advanced credits in linguistics and a 15-credit degree project.",
+  "contact": "Margaret Zellers, studierektorfu@ling.su.se",
+  "labId": "su-linguistics"
+ },
+ {
+  "id": "su-967628",
+  "title": "PhD student in linguistics, sign language",
+  "org": "SU",
+  "unit": "Department of Linguistics, SU",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Doctoral project in linguistics focused on signed languages, with your own research plan on a sign language topic.",
+  "url": "https://su.varbi.com/en/what:job/jobID:967628/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree incl. 30 advanced credits in linguistics and a 15-credit degree project; English, Swedish or Swedish Sign Language.",
+  "contact": "Ingela Holmström, ingela.holmstrom@ling.su.se",
+  "labId": "su-linguistics"
+ },
+ {
+  "id": "su-965776",
+  "title": "PhD student, AI-enabled digital transformation in the public sector",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "AI & machine learning",
+   "Software & data"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "How public organisations become AI-ready: governance, capabilities and socio-technical foundations for responsible AI, with empirical studies in government.",
+  "url": "https://su.varbi.com/en/what:job/jobID:965776/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 60 advanced credits in computer and systems sciences and a 15-credit project; English B2.",
+  "contact": "Janis Stirna, js@dsv.su.se",
+  "labId": "su-dsv-stirna"
+ },
+ {
+  "id": "su-965823",
+  "title": "PhD student in Computer and Systems Sciences, Machine Learning",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "AI & machine learning"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "New algorithms and theory for machine learning, focusing on reinforcement learning, bandits and multi-agent systems, with applications in healthcare, cyber-physical systems and foundation models.",
+  "url": "https://su.varbi.com/en/what:job/jobID:965823/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 60 advanced credits in computer and systems sciences and a 15-credit project; English B2.",
+  "contact": "Sindri Magnússon, sindri.magnusson@dsv.su.se",
+  "labId": "su-dsv-magnusson"
+ },
+ {
+  "id": "su-965877",
+  "title": "PhD student in Computer and Systems Sciences, Cybersecurity",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "Software & data"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Methods, architectures and evaluation frameworks for securing AI-enabled, IoT, cloud and next-generation networked systems.",
+  "url": "https://su.varbi.com/en/what:job/jobID:965877/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 60 advanced credits in computer and systems sciences and a 15-credit thesis; English B2.",
+  "contact": "Yuhong Li, yuhongli@dsv.su.se"
+ },
+ {
+  "id": "su-965933",
+  "title": "PhD student, Internet of Things and Machine Learning",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "AI & machine learning",
+   "Software & data"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Resource-efficient multimodal machine learning for IoT, combining sensor, image, audio and text data on constrained devices, including model compression and bias mitigation.",
+  "url": "https://su.varbi.com/en/what:job/jobID:965933/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 60 advanced credits in computer and systems sciences and a 15-credit project; English B2.",
+  "contact": "Praveen Kumar Donta, praveen.donta@dsv.su.se"
+ },
+ {
+  "id": "su-966176",
+  "title": "PhD student, HCI and design of AI user interfaces",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "AI & machine learning",
+   "Design & HCI"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "How user interfaces for AI systems such as chatbots and AI agents can keep users in control through transparency and interactivity, using prototypes and co-design studies.",
+  "url": "https://su.varbi.com/en/what:job/jobID:966176/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 60 advanced credits in computer and systems sciences and a 15-credit project; English B2.",
+  "contact": "Ola Knutsson, knutsson@dsv.su.se",
+  "labId": "su-dsv-hci"
+ },
+ {
+  "id": "su-966188",
+  "title": "PhD student, Adaptive Immersive Experiences",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "Design & HCI"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Immersive XR devices as hands-free interfaces for digitally enhanced spaces that adapt in real time with machine learning, built responsibly and transparently.",
+  "url": "https://su.varbi.com/en/what:job/jobID:966188/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with 60 advanced credits in computer and systems sciences and a 15-credit project; English B2.",
+  "contact": "Donald McMillan, donald.mcmillan@dsv.su.se",
+  "labId": "su-dsv-hci"
+ },
+ {
+  "id": "su-966253",
+  "title": "PhD student, agent-based simulation of social behaviour",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "Software & data",
+   "Economics & policy"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "MSCA SoCRISP doctoral network: combine social science theory and epidemiological models in agent-based simulations that help policymakers prepare for pandemics.",
+  "url": "https://su.varbi.com/en/what:job/jobID:966253/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies (MSCA network)",
+  "requirements": "Second-cycle degree with a 15-credit thesis; English B2; MSCA mobility rule (max 12 months in Sweden in the last 36).",
+  "contact": "Harko Verhagen, verhagen@dsv.su.se",
+  "labId": "su-dsv-socsim"
+ },
+ {
+  "id": "su-966353",
+  "title": "PhD student, agent-based social simulation for crisis preparedness",
+  "org": "SU",
+  "unit": "Computer and Systems Sciences (DSV), SU",
+  "fields": [
+   "Software & data",
+   "Economics & policy"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "MSCA SoCRISP doctoral network: how government communication shapes citizens' crisis preparedness, using case studies from Italy and Sweden and agent-based social simulation.",
+  "url": "https://su.varbi.com/en/what:job/jobID:966353/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies (MSCA network)",
+  "requirements": "Second-cycle degree with a 15-credit project; English B2; MSCA mobility rule applies.",
+  "contact": "Harko Verhagen, verhagen@dsv.su.se",
+  "labId": "su-dsv-socsim"
+ },
+ {
+  "id": "su-947072",
+  "title": "PhD student in Theoretical Philosophy",
+  "org": "SU",
+  "unit": "Department of Philosophy, SU",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Part of the ERC-funded DECIDE project on how scientists collectively decide which large-scale experiments to pursue, with the US Astronomy Decadal Survey as the main case.",
+  "url": "https://su.varbi.com/en/what:job/jobID:947072/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree incl. 30 ECTS advanced theoretical philosophy and an MA thesis.",
+  "contact": "Siska De Baerdemaeker, siska.debaerdemaeker@philosophy.su.se",
+  "labId": "su-phil-decide"
+ },
+ {
+  "id": "su-947001",
+  "title": "PhD student in Theoretical philosophy",
+  "org": "SU",
+  "unit": "Department of Philosophy, SU",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Doctoral thesis in theoretical philosophy: epistemology, metaphysics, philosophy of mind, logic, language, science or history of philosophy.",
+  "url": "https://su.varbi.com/en/what:job/jobID:947001/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree incl. 30 ECTS advanced theoretical philosophy and an MA thesis.",
+  "contact": "Gunnar Björnsson, gbjorn@su.se"
+ },
+ {
+  "id": "su-959485",
+  "title": "PhD student in Practical Philosophy",
+  "org": "SU",
+  "unit": "Department of Philosophy, SU",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Doctoral thesis in practical philosophy: applied, normative and meta-ethics, political philosophy, decision theory and related areas, based on your own research proposal.",
+  "url": "https://su.varbi.com/en/what:job/jobID:959485/",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree incl. 30 ECTS advanced practical philosophy and an MA thesis.",
+  "contact": "Gunnar Björnsson, gbjorn@su.se"
+ },
+ {
+  "id": "kth-958703",
+  "title": "Doctoral student in condensed matter theory",
+  "org": "KTH",
+  "unit": "School of Engineering Sciences, KTH",
+  "fields": [
+   "Physics & hardware"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-14",
+  "summary": "Theoretical quantum many-body physics with field-theoretical methods: quantum chaos and thermalisation, disordered systems, non-equilibrium dynamics and superconductivity.",
+  "url": "https://www.kth.se/lediga-jobb/958703?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); English B/6.",
+  "contact": "Yunxiang Liao, liao2@kth.se"
+ },
+ {
+  "id": "kth-952584",
+  "title": "Doctoral student in Cell and Molecular Biology Research",
+  "org": "KTH",
+  "unit": "AICell Lab, Applied Physics, KTH and SciLifeLab",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-15",
+  "summary": "Experimental cell biology in a lab that combines wet-lab work with automated platforms and AI-driven analysis: cell culture, perturbation studies and microscopy.",
+  "url": "https://www.kth.se/lediga-jobb/952584?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Degree in cell or molecular biology, biochemistry, biotechnology, biomedicine or biophysics; English B/6.",
+  "contact": "Wei Ouyang, weio@kth.se",
+  "labId": "kth-aicell"
+ },
+ {
+  "id": "kth-963604",
+  "title": "Doctoral student in Remote Fault Attacks on Cryptographic Algorithms",
+  "org": "KTH",
+  "unit": "School of Electrical Engineering and Computer Science, KTH",
+  "fields": [
+   "Software & data"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-17",
+  "summary": "Remote fault attacks on cryptographic implementations and countermeasures designed at the design stage, including the use of machine learning.",
+  "url": "https://www.kth.se/lediga-jobb/963604?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Knowledge of cryptography, fault and side-channel attacks and embedded systems; practical ML (e.g. TensorFlow); English B/6.",
+  "contact": "Elena Dubrova, dubrova@kth.se"
+ },
+ {
+  "id": "kth-971218",
+  "title": "Doctoral student in machine learning and optimization",
+  "org": "KTH",
+  "unit": "School of Electrical Engineering and Computer Science, KTH",
+  "fields": [
+   "AI & machine learning",
+   "Mathematics"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-22",
+  "summary": "New machine-learning algorithms and theory, including graph mining, optimisation, representation learning and fair, transparent ML, in a joint KTH–NTU Singapore doctoral degree.",
+  "url": "https://www.kth.se/lediga-jobb/971218?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, joint doctoral degree with NTU Singapore",
+  "requirements": "Master's in computer science, ML, AI or data science; at least 12 months' research stay at NTU Singapore; English B/6.",
+  "contact": "Aristides Gionis, argioni@kth.se",
+  "labId": "kth-gionis"
+ },
+ {
+  "id": "kth-960628",
+  "title": "Doctoral student in Nuclear Power Safety",
+  "org": "KTH",
+  "unit": "School of Engineering Sciences, KTH",
+  "fields": [
+   "Physics & hardware"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-23",
+  "summary": "Severe accident management in light-water reactors: digitalising management guidelines and building an AI-aided tool to diagnose plant damage state.",
+  "url": "https://www.kth.se/lediga-jobb/960628?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Master's in nuclear or mechanical engineering; English B/6.",
+  "contact": "Weimin Ma, weimin@kth.se"
+ },
+ {
+  "id": "kth-962019",
+  "title": "Doctoral student in experimental fluid mechanics and complex films",
+  "org": "KTH",
+  "unit": "FLOW group, Engineering Mechanics, KTH",
+  "fields": [
+   "Engineering"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-26",
+  "summary": "How complex and living films interact with fluid flows, using experiments combined with continuum modelling, data-driven methods and CFD.",
+  "url": "https://www.kth.se/lediga-jobb/962019?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree, experience in experimental fluid mechanics, English B/6.",
+  "contact": "Shervin Bagheri, sherwinb@kth.se",
+  "labId": "kth-flow-bagheri"
+ },
+ {
+  "id": "kth-973983",
+  "title": "Doctoral student in robotic manipulation of deformable objects",
+  "org": "KTH",
+  "unit": "School of Electrical Engineering and Computer Science, KTH",
+  "fields": [
+   "Robotics",
+   "AI & machine learning"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-30",
+  "summary": "ERC project GEOMANIP: robotic manipulation of deformable objects using geometry-aware, physics-inspired neural representations across perception, planning, control and learning.",
+  "url": "https://www.kth.se/lediga-jobb/973983?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree; Python or C++; ML, robotics or differential geometry preferred; English B/6.",
+  "contact": "Noémie Jaquier, jaquier@kth.se"
+ },
+ {
+  "id": "kth-970092",
+  "title": "Doctoral student in non-Newtonian fluid mechanics and AI",
+  "org": "KTH",
+  "unit": "School of Engineering Sciences, KTH",
+  "fields": [
+   "Engineering",
+   "AI & machine learning"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-31",
+  "summary": "Combine high-performance computing, experiments and AI to model non-Newtonian flows, including a digital-twin rheometer for complex fluids.",
+  "url": "https://www.kth.se/lediga-jobb/970092?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Master's in engineering, mathematics or physics (fluid mechanics or applied maths); English B/6.",
+  "contact": "Outi Tammisola, outi@kth.se",
+  "labId": "kth-flow-bagheri"
+ },
+ {
+  "id": "kth-939588",
+  "title": "Doctoral students in Networked Systems Security",
+  "org": "KTH",
+  "unit": "Networked Systems Security lab, EECS, KTH",
+  "fields": [
+   "Software & data"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-10-31",
+  "summary": "Security and privacy of networked systems, especially the security and resilience of positioning, localisation and satellite navigation.",
+  "url": "https://www.kth.se/lediga-jobb/939588?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with a solid background in networked systems or security; English B/6.",
+  "contact": "Panagiotis Papadimitratos, papadim@kth.se"
+ },
+ {
+  "id": "kth-970256",
+  "title": "Doctoral student in Game-Theoretic Methods for Multi-Agent Autonomous Systems",
+  "org": "KTH",
+  "unit": "School of Electrical Engineering and Computer Science, KTH",
+  "fields": [
+   "Robotics",
+   "Mathematics"
+  ],
+  "kind": "PhD",
+  "deadline": "2026-11-01",
+  "summary": "Game theory and control for multi-agent autonomous systems in the Digital Futures project on human-in-the-loop autonomy, with tests on multi-robot and underwater platforms.",
+  "url": "https://www.kth.se/lediga-jobb/970256?l=en",
+  "verified": "posting",
+  "checked": "2026-10-14",
+  "extent": "100%, doctoral studies",
+  "requirements": "Second-cycle degree with strong optimisation and control background; English B/6.",
+  "contact": "Giuseppe Belgioioso, giubel@kth.se"
+ },
+ {
+  "id": "ki-974965",
+  "title": "Research assistant in histology and cardiovascular research",
+  "org": "KI",
+  "unit": "Department of Medicine, Solna (Stephen Malin's group)",
+  "fields": [
+   "Life science",
+   "Cardiology"
+  ],
+  "kind": "Research assistant",
+  "extent": "100%, special fixed-term employment",
+  "deadline": "2026-11-04",
+  "summary": "Supports histology work in the group's studies of atherosclerosis and related cardiometabolic disease. Tasks include tissue processing, staining, immunohistochemistry, microscopy, image analysis and maintaining lab protocols.",
+  "requirements": "Biomedical analyst degree or a bachelor's or master's in biomedicine, biology or related subject; documented histology and IHC/IF experience; good English.",
+  "contact": "Stephen Malin, stephen.malin@ki.se",
+  "url": "https://ki.varbi.com/en/what:job/jobID:974965/",
+  "verified": "posting",
+  "studentFriendly": true,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-965538",
+  "title": "PhD student in Biochemistry: botulinum neurotoxins",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Doctoral project on botulinum neurotoxins, among the most toxic substances known yet used in medical treatments. Uses structural biology, mainly X-ray crystallography and single-particle cryo-EM, to study the toxins and their interactions with receptors and neuronal membranes.",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); at least 120 credits in biochemistry/life science incl. a 30-credit biochemistry degree project.",
+  "contact": "Pål Stenmark, pal.stenmark@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:965538/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-966197",
+  "title": "PhD student in Sustainability Science: nature-related financial risk",
+  "org": "SU",
+  "unit": "Stockholm Resilience Centre, Stockholm University (Mistra FinBio)",
+  "fields": [
+   "Ecology & environment",
+   "Economics & policy"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Doctoral project on building nature-related risks and resilience into financial decision-making, focusing on real estate and agrifood. Maps how changes in nature affect financial risk and develops resilience-based risk assessment methods with finance-sector partners.",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); at least 30 advanced credits in natural science and a 30-credit advanced thesis in a relevant subject.",
+  "contact": "Beatrice Crona, beatrice.crona@su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:966197/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-968056",
+  "title": "PhD student in Biochemistry: bioenergetic membrane enzymes",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Part of the ERC project bioEnergetic, studying how membrane-bound respiratory enzymes capture redox energy and drive proton-coupled electron transfer, with a focus on electric field effects. Uses cryo-EM, spectroscopy and molecular simulations.",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); at least 120 credits in biochemistry/life science incl. a 30-credit biochemistry degree project.",
+  "contact": "Ville Kaila, ville.kaila@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:968056/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-968059",
+  "title": "PhD student in Biophysics: bioenergetic membrane enzymes",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University",
+  "fields": [
+   "Life science",
+   "Biophysics & microscopy"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Studies how membrane-bound respiratory enzymes capture redox energy and drive long-range proton-coupled electron transfer, with emphasis on electric field effects. Combines multiscale simulations with biochemical, biophysical and structural experiments.",
+  "requirements": "Second-cycle degree; at least 120 credits in physics or chemistry and 60 credits in biophysics, biochemistry or physical chemistry incl. a 30-credit degree project.",
+  "contact": "Ville Kaila, ville.kaila@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:968059/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-970261",
+  "title": "PhD student in Bioinformatics: deep learning models of cell membranes",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University (Elofsson group)",
+  "fields": [
+   "Life science",
+   "AI & machine learning"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Uses deep learning to build multiscale structural models of cell membranes, starting with erythrocyte and mitochondrial membranes and their protein complexes. Scales predictions to whole-membrane organisation and compares cell types and conditions.",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); 90 credits in chemistry/molecular biology/biotechnology or CS/maths/physics plus 60 advanced credits incl. a 30-credit degree project.",
+  "contact": "Arne Elofsson, arne.elofsson@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:970261/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-971018",
+  "title": "PhD student in Neurochemistry: liver-brain axis and neurodegeneration",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University (Translational Neurodegeneration laboratory)",
+  "fields": [
+   "Neuroscience",
+   "Life science"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Project 'APOE-directed liver – brain axis communication and neurodegenerative disease', relating liver-derived lipids, plasma proteins and Alzheimer's biomarkers to brain pathology. Focuses on how a hepatic APOE genotype switch after liver transplantation affects the liver secretome, plasma lipidome and blood-based brain health markers.",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced); at least 120 credits in chemistry/life sciences incl. a 30-credit degree project.",
+  "contact": "Henrietta Nielsen, henrietta.nielsen@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:971018/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-971025",
+  "title": "PhD student in Neurochemistry: single-cell epigenomics of the developing brain",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University (Bartosovic lab, Single-Cell Epigenomics and Neurobiology)",
+  "fields": [
+   "Neuroscience",
+   "Life science"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Develops new methods that measure several chromatin features in the same cells. Applies them to the developing human fetal brain and stem cell models to study how chromatin relates to gene expression and cell identity.",
+  "requirements": "Second-cycle degree (or equivalent); at least 120 credits in chemistry or life sciences incl. a 30-credit degree project.",
+  "contact": "Marek Bartosovic, marek.bartosovic@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:971025/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-971439",
+  "title": "PhD student in Bioinformatics: AI for multimodal biology and microscopy",
+  "org": "SU",
+  "unit": "Department of Biochemistry and Biophysics, Stockholm University (Computational Microscopy for Cell Biology lab)",
+  "fields": [
+   "AI & machine learning",
+   "Life science",
+   "Biophysics & microscopy"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Develops generative AI and representation learning methods to integrate multimodal biological data, focusing on microscopy, to uncover biological mechanisms. Sits at the intersection of AI, computational biology and computer vision.",
+  "requirements": "Second-cycle degree (e.g. MSc) in a quantitative field with coursework in chemistry/molecular biology or CS/maths/physics and a 30-credit degree project.",
+  "contact": "Juliette Griffié, juliette.griffie@dbb.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:971439/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-972418",
+  "title": "PhD student in Atmospheric Sciences: aerosol-cloud-climate interactions",
+  "org": "SU",
+  "unit": "Department of Meteorology (MISU), Stockholm University",
+  "fields": [
+   "Climate & atmosphere",
+   "Physics & hardware"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Aims to clarify how aerosol pollution affects water-droplet clouds, testing the theory that aerosols strengthen updrafts in convective clouds. May also study satellite-era trends in Earth's radiation budget linked to these interactions.",
+  "requirements": "Second-cycle degree; specific eligibility in meteorology, oceanography, physics or chemistry incl. mathematics and an independent thesis; English B level.",
+  "contact": "Casey Wall, casey.wall@misu.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:972418/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-972886",
+  "title": "PhD student in Atmospheric Sciences: ML methods in climate modelling",
+  "org": "SU",
+  "unit": "Department of Meteorology (MISU), Stockholm University",
+  "fields": [
+   "Climate & atmosphere",
+   "AI & machine learning"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Trains machine learning models on observations and high-resolution simulations to replace uncertain cloud and turbulence parameterizations. Couples them to a large-scale climate model and evaluates the results against observations.",
+  "requirements": "Second-cycle degree; 90 credits in meteorology, oceanography, physics or chemistry, 15 credits mathematics, a 15-credit degree project; English B.",
+  "contact": "Frida Bender, frida.bender@misu.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:972886/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-972996",
+  "title": "PhD student in Atmospheric Sciences: clouds in the boundary layer",
+  "org": "SU",
+  "unit": "Department of Meteorology (MISU), Stockholm University",
+  "fields": [
+   "Climate & atmosphere",
+   "Physics & hardware"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Studies boundary-layer cloud processes with Large Eddy Simulation, using a Lagrangian microphysics method in the Neko solver. Involves code development and simulating cloudy marine boundary layers observed over the Baltic Sea.",
+  "requirements": "Second-cycle degree; 90 credits in meteorology, oceanography, physics or chemistry, 15 credits mathematics, a 15-credit degree project; English level 6.",
+  "contact": "Gunilla Svensson, gunilla.svensson@misu.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:972996/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-974201",
+  "title": "PhD student in Atmospheric Sciences: mixed-phase cloud processes",
+  "org": "SU",
+  "unit": "Department of Meteorology (MISU), Stockholm University",
+  "fields": [
+   "Climate & atmosphere",
+   "Software & data"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Analyses over 800 hours of research-aircraft wind and cloud particle data to link cloud particle properties to turbulence and atmospheric waves. Work is done in Python and may extend to climate, modelling or machine learning.",
+  "requirements": "Second-cycle degree; 90 credits in meteorology, oceanography, physics or chemistry, 15 credits mathematics, a 15-credit degree project; English level 6.",
+  "contact": "Rachel Atlas, rachel.atlas@misu.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:974201/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-973731",
+  "title": "PhD student in Theoretical Physics: quantum sensing with anharmonic systems",
+  "org": "SU",
+  "unit": "Department of Physics, Stockholm University (Sofia Qvarfort's group at Nordita, WACQT)",
+  "fields": [
+   "Physics & hardware",
+   "Mathematics"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Studies fundamental limits and new protocols for quantum sensing using mathematical physics, quantum information and quantum metrology. Focuses on nonlinear and anharmonic dynamics, non-Gaussian states and mechanical resonators in the quantum regime.",
+  "requirements": "BSc in physics (or equivalent) plus at least 60 second-cycle physics credits incl. a degree project of at least 15 credits; English proficiency.",
+  "contact": "Sofia Qvarfort, sofia.qvarfort@fysik.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:973731/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-973780",
+  "title": "PhD student in Chemical Physics: quantum chemical calculations of X-ray spectra",
+  "org": "SU",
+  "unit": "Department of Physics, Stockholm University (Chemical Physics, Molecular Dynamics Quantum Chemistry group)",
+  "fields": [
+   "Physics & hardware"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Develops theory for X-ray induced electronic transitions in liquids and solids using embedding techniques or modelling low-energy phonons and vibrations. Supports high-resolution RIXS experiments in a European theory-experiment collaboration.",
+  "requirements": "Second-cycle degree; BSc in physics or equivalent with 60 second-cycle physics credits (chemistry courses may count for chemical physics); English proficiency.",
+  "contact": "Michael Odelius, odelius@fysik.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:973780/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-973805",
+  "title": "PhD student in Physics: quantum chemical calculations of X-ray spectra",
+  "org": "SU",
+  "unit": "Department of Physics, Stockholm University (Chemical Physics, Molecular Dynamics Quantum Chemistry group)",
+  "fields": [
+   "Physics & hardware"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Develops accurate quantum chemical methods for X-ray-induced electronic transitions in liquids and solids, via embedding techniques or modelling phonon and vibrational excitations. Supports interpretation of high-resolution RIXS experiments in a European collaboration.",
+  "requirements": "BSc in physics (or equivalent) with 60 second-cycle physics credits incl. a degree project of at least 15 credits; English proficiency.",
+  "contact": "Michael Odelius, odelius@fysik.su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:973805/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-976392",
+  "title": "PhD student in Molecular Biosciences: mitochondrial bioenergetics",
+  "org": "SU",
+  "unit": "Department of Molecular Biosciences, The Wenner-Gren Institute, Stockholm University (Jastroch lab)",
+  "fields": [
+   "Life science"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment (up to four years)",
+  "deadline": "2026-11-03",
+  "summary": "Studies molecular mechanisms of mitochondrial bioenergetics by combining molecular simulations and systems-level models with biochemical, physiological and metabolic data. Run with the Kaila and Piazza labs and the 'Modelling Life at the Membrane with AI' centre.",
+  "requirements": "Second-cycle degree (or 240 credits incl. 60 advanced) plus training in computational, biochemical or biophysical methods applied to mitochondrial proteins and membranes.",
+  "contact": "Martin Jastroch, martin.jastroch@su.se",
+  "url": "https://su.varbi.com/en/what:job/jobID:976392/",
+  "verified": "posting",
+  "studentFriendly": false,
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "kth-977491",
+  "title": "Teaching assistant, Department of Mathematics (50%)",
+  "org": "KTH",
+  "unit": "Department of Mathematics, School of Engineering Sciences, KTH",
+  "fields": [
+   "Mathematics",
+   "Education"
+  ],
+  "kind": "Assistant",
+  "extent": "50%, special fixed-term employment, up to 3 months",
+  "deadline": "2026-10-23",
+  "summary": "Teaching in undergraduate and master's courses given by the Department of Mathematics. Main tasks are leading exercise sessions, running help sessions and supervising lab work.",
+  "requirements": "Interest in the subject, teaching experience, good grades (especially in mathematics), good spoken communication and cooperation skills.",
+  "contact": "Kirsti Biggs, kirstib@kth.se",
+  "url": "https://www.kth.se/lediga-jobb/977491?l=sv",
+  "studentFriendly": true,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "kth-974535",
+  "title": "Visitor guide at Vetenskapens Hus (hourly)",
+  "org": "KTH",
+  "unit": "Vetenskapens Hus, School of Industrial Engineering and Management, KTH",
+  "fields": [
+   "Education"
+  ],
+  "kind": "Other",
+  "extent": "Hourly, as needed (special fixed-term employment)",
+  "deadline": "2026-10-25",
+  "summary": "Supports the project 'Meningsfull fritid med STEM' with the City of Stockholm in autumn 2026. Visit compulsory schools to run interactive science experiments at after-school clubs, mainly in the afternoons, plus preparation and follow-up.",
+  "requirements": "Must be admitted to undergraduate or advanced-level studies at KTH or Stockholm University; very good Swedish, spoken and written.",
+  "contact": "Johan Lundberg, johan.lundberg@vetenskapenshus.se",
+  "url": "https://www.kth.se/lediga-jobb/974535?l=sv",
+  "studentFriendly": true,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-975272",
+  "title": "Research assistant in computational chemistry",
+  "org": "SU",
+  "unit": "Department of Chemistry (Kemikum), Stockholm University",
+  "fields": [
+   "Chemistry"
+  ],
+  "kind": "Research assistant",
+  "extent": "100%, fixed-term, up to 12 months",
+  "deadline": "2026-10-20",
+  "summary": "Analyse results from molecular dynamics simulations of different polymorphic forms of pharmaceutical molecules.",
+  "requirements": "Doctoral degree in chemistry or equivalent expertise; experience in computational chemistry, especially free energy calculations and metadynamics.",
+  "contact": "Niklas Hedin, niklas.hedin@su.se",
+  "url": "https://su.varbi.com/what:job/jobID:975272/",
+  "studentFriendly": false,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-973127",
+  "title": "Research assistant in organic chemistry",
+  "org": "SU",
+  "unit": "Department of Chemistry (Kemikum), Stockholm University",
+  "fields": [
+   "Chemistry"
+  ],
+  "kind": "Research assistant",
+  "extent": "100%, fixed-term, up to 12 months",
+  "deadline": "2026-10-15",
+  "summary": "Develop advanced methods in organic synthesis, with a focus on organoboron chemistry.",
+  "requirements": "Master's degree in organic chemistry; experience in synthetic organoboron chemistry and asymmetric organocatalysis.",
+  "contact": "Kálmán J. Szabó, kalman.j.szabo@su.se",
+  "url": "https://su.varbi.com/what:job/jobID:973127/",
+  "studentFriendly": false,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-973295",
+  "title": "Research assistant in the Living Conditions Project (LNU)",
+  "org": "SU",
+  "unit": "Swedish Institute for Social Research (SOFI), Stockholm University",
+  "fields": [
+   "Social sciences"
+  ],
+  "kind": "Research assistant",
+  "extent": "100%, fixed-term, 12 months",
+  "deadline": "2026-10-20",
+  "summary": "Help prepare data and survey material for the Living Conditions Survey (LNU) 2026 and earlier waves, including statistical analyses. Also involves archiving older data.",
+  "requirements": "Bachelor's or master's degree in sociology or another social science.",
+  "contact": "Katarina Boye, katarina.boye@sofi.su.se",
+  "url": "https://su.varbi.com/what:job/jobID:973295/",
+  "studentFriendly": true,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-972973",
+  "title": "Amanuens, Department of Swedish and Multilingualism",
+  "org": "SU",
+  "unit": "Department of Swedish and Multilingualism, Stockholm University",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "Student assistant",
+  "extent": "30–50%, fixed-term, 12 months",
+  "deadline": "2026-10-22",
+  "summary": "Support study administration such as eligibility review, admissions and exam administration. Also help organise the department's physical archive and structure its digital records with the archivist.",
+  "requirements": "Must be admitted to a programme at undergraduate or advanced level.",
+  "contact": "Yvonne Carlsson, yvonne.carlsson@su.se",
+  "url": "https://su.varbi.com/what:job/jobID:972973/",
+  "studentFriendly": true,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-971837",
+  "title": "Amanuens in business administration (accounting)",
+  "org": "SU",
+  "unit": "Department of Business Studies, Stockholm University",
+  "fields": [
+   "Economics & policy"
+  ],
+  "kind": "Student assistant",
+  "extent": "50%, fixed-term, 12 months",
+  "deadline": "2026-10-30",
+  "summary": "Link students with courses, teachers and course coordinators, answering subject questions and helping with course administration in FEK-I and FEK-II. Includes invigilating exams.",
+  "requirements": "Must be admitted to a programme at undergraduate or advanced level.",
+  "contact": "Mikael Holmgren Caicedo, mikael.holmgren.caicedo@sbs.su.se",
+  "url": "https://su.varbi.com/what:job/jobID:971837/",
+  "studentFriendly": true,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-952686",
+  "title": "PhD student in mathematics education: mathematical giftedness in teacher education",
+  "org": "SU",
+  "unit": "Department of Teaching and Learning, Stockholm University",
+  "fields": [
+   "Education",
+   "Mathematics"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment",
+  "deadline": "2026-10-15",
+  "summary": "Examines how particular mathematical giftedness is handled in Swedish mathematics teacher education, including student teachers' views and how coursework and placements prepare them. Uses observations, interviews, surveys and documents.",
+  "requirements": "Advanced-level degree (240 credits incl. 60 advanced) plus teacher training with mathematics or at least 90 relevant credits; Swedish, Danish, Norwegian or English.",
+  "contact": "Anna Pansell, anna.pansell@su.se",
+  "url": "https://su.varbi.com/what:job/jobID:952686/",
+  "studentFriendly": false,
+  "labId": "su-subject-education",
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-961922",
+  "title": "PhD student in science education: students' interest",
+  "org": "SU",
+  "unit": "Department of Teaching and Learning, Stockholm University",
+  "fields": [
+   "Education"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment",
+  "deadline": "2026-10-15",
+  "summary": "Examines how teaching affects students' interest in science in grades 4–9 and/or upper secondary school. May include teaching design in close collaboration with teachers, with studies carried out in Swedish schools.",
+  "requirements": "Advanced-level degree (240 credits incl. 60 advanced) plus teacher education for science incl. a 15-credit degree project in science education.",
+  "contact": "Per Anderhag, per.anderhag@su.se",
+  "url": "https://su.varbi.com/what:job/jobID:961922/",
+  "studentFriendly": false,
+  "labId": "su-subject-education",
+  "verified": "posting",
+  "checked": "2026-10-14"
+ },
+ {
+  "id": "su-963732",
+  "title": "PhD student in Nordic languages",
+  "org": "SU",
+  "unit": "Department of Swedish and Multilingualism, Stockholm University",
+  "fields": [
+   "Humanities"
+  ],
+  "kind": "PhD",
+  "extent": "100%, fixed-term doctoral employment",
+  "deadline": "2026-10-15",
+  "summary": "Open doctoral position where applicants choose their own research question within Nordic languages, mainly Swedish. Covers language use, structure and multilingualism from modern and historical perspectives.",
+  "requirements": "Advanced-level degree; at least 30 advanced credits in Swedish, Swedish as a second language or Nordic languages incl. a 15-credit degree project; fluent Swedish, Danish or Norwegian plus English.",
+  "contact": "Anna Vogel, anna.vogel@su.se",
+  "url": "https://su.varbi.com/what:job/jobID:963732/",
+  "studentFriendly": false,
+  "verified": "posting",
+  "checked": "2026-10-14"
+ }
+]
